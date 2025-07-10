@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a curious and pragmatic **Data Scientist** with a pass
 - 🧬 **Machine Learning & Simulation** – exploring predictive models and physical systems
 - ⚙️ **Python, SQL, DB2, Julia** – with a growing interest in open-source science
 
-🌿 Outside work, I’m exploring:
+🌿 I’m exploring:
 - Sustainable living and urban gardening 🌱
 - Sensors, Raspberry Pi & embedded systems 🌡️
 - Scientific computing (📦 `SciML`, `OpenFOAM`, `matplotlib`, `scikit-learn`)
