@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a curious and pragmatic **Data Scientist** with a pass
 🌿 I’m exploring:
 - Sustainable living and urban gardening 🌱
 - Sensors, Raspberry Pi & embedded systems 🌡️
-- Scientific computing (📦 `SciML`, `OpenFOAM`, `matplotlib`, `scikit-learn`)
+- Scientific computing (📦 `SciML`, `OpenFOAM`, `scikit-learn`)
 
 ---
 
